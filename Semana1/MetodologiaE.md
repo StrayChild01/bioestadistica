@@ -12,11 +12,11 @@ de lo que se este estudiando.
 ## Etapas de la Investigación
 
 Las etapas de la investigación son: la PLANEACIÓN y la EJECUCIÓN.
-
-					Planeación
+```
+			Planeación
 Investigación:
-					Ejecución
-
+			Ejecución					
+```
 En la primera se tiene que definir todo lo que se desea realizar, por ejemplo se
 debe definir el problema de estudio, los objetivos, las metas, la población, la
 muestra, el proceso de la información desde la recolección hasta el análisis
@@ -33,9 +33,9 @@ con ello  poder tomar decisiones sobre su nuestro estudio.
 Como se señaló, la metodología estadística es más visible en la etapa de
 ejecución y particularmente desde la recolección de datos, a continuación se
 resumen las etapas del proceso estadístico
-
+```
 Investigación -> Genera datos
-
+```
 La investigación genera información la cual hay que procesar, a través de sus
 técnicas la estadística lo permite. Después de tener claro el problema a
 estudiar, plantear claramente los objetivos, las metas, así como la hipótesis
