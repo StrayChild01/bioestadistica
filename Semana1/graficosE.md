@@ -201,11 +201,11 @@ Ahí se coloca otra línea veritcal, la cual representa el límite superior de l
 
 Se cierra la caja con líneas horizontales.
 
-_Poner imagen caja.png_
+![caja](https://github.com/StrayChild01/bioestadistica/blob/master/Semana1/imagenes/caja.png)
 
 Los bigotes se colocan a la mitad de los límites de la caja, hasta el principio y final de los valores.
 
-_Poner imagen cajabrazo.png_
+![cajabrazo](https://github.com/StrayChild01/bioestadistica/blob/master/Semana1/imagenes/cajabrazo.png)
 
 Hasta aquí dejamos este tutorial, en la próxima entrega, haremos la contrucción formal y la interpretación.
 
@@ -265,10 +265,10 @@ Este gráfico permite representar  una variable de tipo numérica continua, adem
 	Hi = Li-1.5(H)=32-1.5(31)=-14.5
 	Hs = Ls +1.5(H)=63+1.5(31)=109	
 	
-_Poner imagen caja3.png_
+![Caja 3](https://github.com/StrayChild01/bioestadistica/blob/master/Semana1/imagenes/caja3.png)
 
 8. Trazar los bigotes
 
 	Cuando los valores resultantes son mayores a los valores mínimo o máximo son como en este caso -14.5 y 109, el bigote se corta hasta al valor mínimo y máximo.
 	
-_Poner imagen caja4.png_
+![Caja 4](https://github.com/StrayChild01/bioestadistica/blob/master/Semana1/imagenes/caja4.png)
