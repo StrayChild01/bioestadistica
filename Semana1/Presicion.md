@@ -10,7 +10,7 @@ tales como desviación típica, varianza o el coeficiente de variación bajo las
 condiciones especificadas. La presición, se utiliza para definir a la
 repetibilidad de medida.
 
-![Alt text][imagenes/diana.png?raw=true "Title"]
+![diana](https://github.com/StrayChild01/bioestadistica/blob/master/Semana1/imagenes/diana.png)
 
 ## ¿Qué es exactitud en estadística?
 
@@ -18,10 +18,10 @@ repetibilidad de medida.
 
 Se dice que una medición es más exacta cuando más pequeño es el error de la medición.
 
-[exactitud][Semana1/imagenes/diana2.png]
+![exactitud](https://github.com/StrayChild01/bioestadistica/blob/master/Semana1/imagenes/diana2.png)
 
 ## Error
 
 Es la diferencia entre el valor real y el medido, sin embargo, puesto que el valor real nunca se conoce, realmente el error siempre debe estimarse.
 
-[error][Semana1/imagenes/diana3.png]
+![error](https://github.com/StrayChild01/bioestadistica/blob/master/Semana1/imagenes/diana3.png)
