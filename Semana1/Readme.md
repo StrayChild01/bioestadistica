@@ -1,10 +1,11 @@
 # Semana 1
 
 ## Contenidos del Curso
-- [Metodología Estadística](Semana1/MetodologiaE.md)
-- [Presición](Semana1/Presicion.md)
-- [Tema Variables](Semana1/variables.md)
-- [Lectura 1](Semana1/lectura1.pdf)
+- [Metodología Estadística](MetodologiaE.md)
+- [Presición](Presicion.md)
+- [Tema Variables](variables.md)
+- [Lectura 1](lectura1.pdf)
 
 ## Presentación de la información
-- [Tablas y cuadros estadísticos](Semana1/presentacioninfo.md)
+- [Tablas y cuadros estadísticos](presentacioninfo.md)
+- [Gráficos estadísticos](graficosE.md)
