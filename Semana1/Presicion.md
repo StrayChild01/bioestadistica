@@ -10,7 +10,7 @@ tales como desviación típica, varianza o el coeficiente de variación bajo las
 condiciones especificadas. La presición, se utiliza para definir a la
 repetibilidad de medida.
 
-[presición][Semana1/imagenes/diana.png]
+![Alt text][imagenes/diana.png?raw=true "Title"]
 
 ## ¿Qué es exactitud en estadística?
 
