@@ -272,3 +272,11 @@ Este gráfico permite representar  una variable de tipo numérica continua, adem
 	Cuando los valores resultantes son mayores a los valores mínimo o máximo son como en este caso -14.5 y 109, el bigote se corta hasta al valor mínimo y máximo.
 	
 ![Caja 4](https://github.com/StrayChild01/bioestadistica/blob/master/Semana1/imagenes/caja4.png)
+
+### Gráfico de asociación
+
+_Gráfico de Asociación o Gráfico de Puntos o Gráfico X,Y_
+
+Este gráfico nos sirve para representar dos variables de tipo numéricas continuas. La proporción de sus ejes debe ser 1:1.
+
+Cada punto representa dos valores, uno de la variable dependiente y uno de la variable independiente.
