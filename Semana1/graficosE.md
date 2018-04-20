@@ -60,7 +60,7 @@ Para hacerlo se debe seguir los siguientes pasos.
 
 	_Regla de Sturges_
 
-		K = 1+3.322 log(n)
+		K = 1+3.322 log(n) *logaritmo base 10*
 
 	_Regla de Velleman_
 
@@ -72,9 +72,9 @@ Para hacerlo se debe seguir los siguientes pasos.
 
 	Cada una de ellas nos da un valor diferente de clases o intervalos, obteniendo la K
 
-3. Calcular la amplitud de la clase (A= amplitud)
+3. Calcular la amplitud de la clase (A=amplitud)
 
-		A= R/K
+		A= R/K *rango/clases*
 
 4. Con lo anterior
 
