@@ -46,6 +46,8 @@ El histograma nos sirve para representar una variable de tipo numérica continua
 
 Es una representación a través de rectángulos  o barras. En el eje de las abscisas  "x" se debe  colocar las clases o intervalos de la variable y en el eje de las ordenas "y" estará representada la frecuencia.
 
+_La diferencia entre un histograma y una gráfica de barras, es que el primero es para representar variables contínuas y la gráfica de barras es para representar variables discretas_
+
 ### ¿Cómo se elabora el histograma?
 
 Para hacerlo se debe seguir los siguientes pasos.
