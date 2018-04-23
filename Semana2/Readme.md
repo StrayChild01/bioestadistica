@@ -2,9 +2,9 @@
 
 ## Estadística descriptiva:
 
-[Medidas de tendencia central](https://youtu.be/3d5BuaH3UjU)
+[Medidas de tendencia central (youtube)](https://youtu.be/3d5BuaH3UjU)
 
-[Medidas de dispersión o variabilidad](https://youtu.be/dZH-PWhgrY0)
+[Medidas de dispersión o variabilidad (youtube)](https://youtu.be/dZH-PWhgrY0)
 
 [Ejercicio 1](https://github.com/StrayChild01/bioestadistica/blob/master/Semana2/Ejercicio1.pdf)
 
