@@ -26,8 +26,8 @@ n	|	**Peso (Kg) al inicio del programa**	|	**Peso (Kg) al término del programa*
 
 1. Define lo siguiente.
 
-    a) Población bajo estudio.
-    b) Define la muestra.  
+    a) Población bajo estudio.    
+    b) Define la muestra.
     c) Plantea la hipótesis de trabajo y la hipótesis estadística.  
     d) Realiza los gráficos necesarios para observar el comportamiento de la información.
     
