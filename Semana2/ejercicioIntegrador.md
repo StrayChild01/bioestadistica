@@ -23,23 +23,15 @@ n	|	**Peso (Kg) al inicio del programa**	|	**Peso (Kg) al término del programa*
 14	|	87	|	91	|		|	72	|	65	|
 15	|	118	|	90	|		|	81	|	80	|
 
-1. Define la Población bajo estudio
 
-    a) Define la muestra.
-  
-    b) Plantea la hipótesis de trabajo y la hipótesis estadística.
-  
-    c) Realiza los gráficos necesarios para observar el comportamiento de la información.
-  
+1. Define lo siguiente.
+
+    a) Población bajo estudio
+    b) Define la muestra.  
+    b) Plantea la hipótesis de trabajo y la hipótesis estadística.  
+    d) Realiza los gráficos necesarios para observar el comportamiento de la información.
+    
 2. Realiza el estudio descriptivo (cálculo de las medidas de tendencia central y de dispersión) de los datos, interpreta los resultados.
 
 3. ¿Existen diferencias entre los grupos de pacientes?
 4. Da una conclusión de este estudio y las recomendaciones que harías al Instituto sobre el programa dieta-ejercicio.
-
-
-
-
-
-
-
-
