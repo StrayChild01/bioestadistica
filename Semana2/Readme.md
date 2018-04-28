@@ -18,6 +18,8 @@
 
 [Lectura 2](lectura2.pdf)
 
+## Probabilidad:
+
 [Probabilidad (youtube)](https://youtu.be/slaR4f6db6k)
 
 [Lectura 3](lectura3.pdf)
@@ -32,11 +34,13 @@
 
 [Lectura 4](lectura4.pdf)
 
+## Distribuciones de Probabilidad:
+
 [Distribución binomial (youtube)](https://youtu.be/EisaSQ1j_Kk)
 
 [Distribución de poisson (youtube)](https://youtu.be/j7p3KCqqOMQ)
 
-## Material adicional
+### Material adicional
 
 [Tablas de frecuencia agrupados (youtube)](https://youtu.be/5XKf9vguOJE)
 
