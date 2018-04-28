@@ -1,6 +1,6 @@
 # Semana 1
 
-## Contenidos del Curso
+## Introducción a la Estadística
 - [Metodología Estadística](MetodologiaE.md)
 - [Presición](Presicion.md)
 - [Tema Variables](variables.md)
