@@ -5,4 +5,7 @@
 ### [Semana 2](Semana2/Readme.md)
   - Estadística Descriptiva
   - Probabilidad
-  - Distribuciones de Probabilidad
+  - Distribuciones de Probabilidad  
+### [Semana 3](Semana3/Readme.md)
+  - Actualizando...
+  - Inferencia Estadística
