@@ -53,3 +53,8 @@
 [Medidas de dispersión para datos agrupados (youtube)](https://youtu.be/1myBo87lYyU)
 
 [Software Libre](http://economics-files.pomona.edu/GarySmith/Software.html)
+
+[Software Libre](http://economics-files.pomona.edu/GarySmith/Software.html)
+
+[Chart Suggestions—A Thought-Starter](Gr%C3%A1ficos.pdf)
+
