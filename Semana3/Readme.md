@@ -19,4 +19,4 @@
 
 [Tablas estadísticas para variables discretas](Tablas_Distribuciones_Var_discretas.pdf)
 
-[Tablas estadísticas para variables discretas](tablas.pdf)
+[Tablas estadísticas para variables continuas](tablas.pdf)
