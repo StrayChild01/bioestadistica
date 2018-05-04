@@ -14,3 +14,9 @@
 [Estimación de proporciones (youtube)](https://youtu.be/WqbxgQzJPiI)
 
 [Tarea estimación](tareaEstimacion.md)
+
+[Regla de Decisión](https://youtu.be/mgPnrAjlyss)
+
+[Tablas estadísticas para variables discretas](Tablas_Distribuciones_Var_discretas.pdf)
+
+[Tablas estadísticas para variables discretas](tablas.pdf)
