@@ -3,7 +3,7 @@
 ## Resuelva los siguientes ejercicios y envíe en archivo adjunto
 
 1. La lectura de una muestra aleatoria mostraron una media de 174.5 cm y una desviación estándar de 6.9 cm.
-Determine un intervalo de confianza del 90% para la altura promedio de todos los estudiantes.
+Determine un intervalo de confianza del 90% para la altura promedio de todos los estudiantes. n = 32.
 
 2. Los zoólogos están interesados en la distancia promedio que un cierto tipo de mamífero viaja desde su madriguera.
   Un equipo de vigilancia observa dos poblaciones de estos mamíferos, la información en metros de la población 1 fue:
