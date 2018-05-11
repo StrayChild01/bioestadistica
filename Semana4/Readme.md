@@ -11,3 +11,5 @@ La hipótesis está mal planteada y dan por hecho que las varianzas son iguales,
 - [Pruebas de hipótesis para diferencias de medias](https://youtu.be/wtUHLLIwepk)
 - [Prueba de hipótesis de proporciones](https://youtu.be/AN1tIWEo8qw)
 - [Prueba de t pareada (panel antes después)](https://youtu.be/Ynke7BgMPCE)
+
+[<<- Regresar al índice](../README.md)
