@@ -9,7 +9,15 @@
 
 [Estimación de una media para muestras grandes (youtube)](https://youtu.be/N45PNGGbYp8)
 
+Cuando las varianzas son iguales, hay que ponderarlas con la siguiente fórmula:
+
+![Ponderación de varianza](formulaPonderacionVarianza.png)
+
 [Estimación de una media para muestras pequeñas (youtube)](https://youtu.be/XEHRwidsiGQ)
+
+Cuando las varianzas son diferentes.
+
+![Ponderación de varianza](gradosLibertad.png)
 
 [Estimación de proporciones (youtube)](https://youtu.be/WqbxgQzJPiI)
 
