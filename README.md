@@ -9,4 +9,4 @@
 ### [Semana 3](Semana3/Readme.md)
   - Inferencia Estadística
 ### [Semana 4](Semana4/Readme.md)
-  - Pruebas de Hipótesis
+  - Introducción a los Métodos Estadísticos Lineales
